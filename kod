@@ -1,1 +1,186 @@
-1
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="bg" style="height: 100%;"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-language" content="bg">
+<title>Потребители - SECTOR.BG Counter-Strike Community - The Best CS 1.6 Servers in the World!</title>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/e107_files/e107.js"></script>
+
+
+<link rel="stylesheet" href="/e107_themes/sector/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="/e107_files/e107.css" type="text/css">
+
+
+
+
+
+
+<meta name="description" content="Най-голямата верига игрални сървъри и общност ориентирана към зрялата аудитория на неостаряващата класика Counter-Strike 1.6
+Преоткрий CS 1.6 в безкомпромисни сървъри заедно с най-бруталните масакъри и масакърки раждали се някога!">
+<meta name="keywords" content="cs,counter,strike,cstrike,server,servers,1.6,download,сваляне,теглене,nosteam,сървър,сървъри,sector,cs16,flex,anticheat,wowmod,wc3mod,gungame,deathmatch,hide,seek,zombie,furien,dust2,respawn">
+
+<link rel="icon" href="https://cs.sector.bg/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://cs.sector.bg/favicon.ico" type="image/xicon">
+
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.qhDXWpKopYk.L.W.O/d=0/rs=AN8SPfp0QXhhaDDdjg_LgcSqoZiPEzC1tw/m=el_main_css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.bg.7B-2gcvU1P0.O/d=1/exm=el_conf/ed=1/rs=AN8SPfpodjRa48Zs-4rM_vMIK0qwcDwaEA/m=el_main"></script></head>
+<body onload="externalLinks();" style="position: relative; min-height: 100%; top: 0px;">
+<script src="https://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript"></script><script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script><script src="/e107_themes/sector/custom.js" type="text/javascript"></script><script type="text/javascript">jQuery( document ).ready(function() {	jQuery( '.translateflags' ).each(function( index ) {		var href = $(this).attr('href');		href = href.replace('https://cs.sector.bg/news.php', location.href);		$(this).attr('href', href);	});})</script><div id="wrapper"><div id="header"> <div id="logo"> <h1>SECTOR.BG Counter-Strike Community - The Best CS 1.6 Servers in the World!</h1> <p></p> </div>  <div style="padding-top: 70px;text-align: right;margin-right: 10px;float: right"> <div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Приспособление за езикови преводи"><option value="">Избиране на език</option><option value="az">азербайджански</option><option value="ay">аймара</option><option value="sq">албански</option><option value="am">амхарски</option><option value="en">английски</option><option value="ar">арабски</option><option value="hy">арменски</option><option value="as">асамски</option><option value="af">африкаанс (бурски)</option><option value="bm">бамбара</option><option value="eu">баски</option><option value="be">беларуски</option><option value="bn">бенгалски</option><option value="my">бирмански</option><option value="bs">босненски</option><option value="bho">бходжпури</option><option value="vi">виетнамски</option><option value="gl">галисийски</option><option value="ka">грузински</option><option value="el">гръцки</option><option value="gn">гуарани</option><option value="gu">гуджарати</option><option value="da">датски</option><option value="dv">дивехи</option><option value="doi">догри</option><option value="ee">еве</option><option value="eo">есперанто</option><option value="et">естонски</option><option value="zu">зулу</option><option value="iw">иврит</option><option value="ig">игбо</option><option value="yi">идиш</option><option value="ilo">илокански</option><option value="id">индонезийски</option><option value="ga">ирландски</option><option value="is">исландски</option><option value="es">испански</option><option value="it">италиански</option><option value="yo">йоруба</option><option value="kk">казахски</option><option value="kn">каннада</option><option value="ca">каталонски</option><option value="qu">кечуа</option><option value="rw">киняруанда</option><option value="ky">киргизки</option><option value="zh-CN">китайски (опростен)</option><option value="zh-TW">китайски (традиционен)</option><option value="gom">конкани</option><option value="ko">корейски</option><option value="co">корсикански</option><option value="kri">крио</option><option value="xh">ксоса</option><option value="km">кхмерски</option><option value="ku">кюрдски (курманджи)</option><option value="ckb">кюрдски (сорани)</option><option value="lo">лаоски</option><option value="lv">латвийски</option><option value="la">латински</option><option value="ln">лингала</option><option value="lt">литовски</option><option value="lg">луганда</option><option value="lb">люксембургски</option><option value="mai">майтхили</option><option value="mk">македонски</option><option value="ms">малайски</option><option value="ml">малаялам</option><option value="mg">малгашки</option><option value="mt">малтийски</option><option value="mi">маорски</option><option value="mr">маратхи</option><option value="mni-Mtei">мейтейлон (манипури)</option><option value="lus">мизо</option><option value="mn">монголски</option><option value="de">немски</option><option value="ne">непалски</option><option value="nl">нидерландски</option><option value="no">норвежки</option><option value="or">одия (ория)</option><option value="om">оромо</option><option value="pa">панджаби</option><option value="fa">персийски</option><option value="pl">полски</option><option value="pt">португалски</option><option value="ps">пущу</option><option value="ro">румънски</option><option value="ru">руски</option><option value="sm">самоански</option><option value="sa">санскрит</option><option value="ceb">себуански</option><option value="nso">сепеди</option><option value="st">сесото</option><option value="sd">синдхи</option><option value="si">синхалски</option><option value="sk">словашки</option><option value="sl">словенски</option><option value="so">сомалийски</option><option value="sr">сръбски</option><option value="sw">суахили</option><option value="su">сундански</option><option value="tg">таджикски</option><option value="th">тайландски</option><option value="ta">тамилски</option><option value="tt">татарски</option><option value="te">телугу</option><option value="ti">тигриня</option><option value="ak">туи</option><option value="tk">туркменски</option><option value="tr">турски</option><option value="cy">уелски</option><option value="uz">узбекски</option><option value="ug">уйгурски</option><option value="uk">украински</option><option value="hu">унгарски</option><option value="ur">урду</option><option value="tl">филипински</option><option value="fi">финландски</option><option value="fr">френски</option><option value="fy">фризийски</option><option value="haw">хавайски</option><option value="ht">хаитянски креолски</option><option value="ha">хауса</option><option value="hi">хинди</option><option value="hmn">хмонг</option><option value="hr">хърватски</option><option value="ts">цонга</option><option value="cs">чешки</option><option value="ny">чичеуа</option><option value="sv">шведски</option><option value="sn">шона</option><option value="gd">шотландски келтски</option><option value="jw">явански</option><option value="ja">японски</option></select></div>Предоставено от <span style="white-space:nowrap"><a class="VIpgJd-ZVi9od-l4eHX-hSRGPd" href="https://translate.google.com" target="_blank"><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Преводач">Преводач</a></span></div></div><script type="text/javascript">function googleTranslateElementInit() {  new google.translate.TranslateElement({pageLanguage: 'bg', autoDisplay: false}, 'google_translate_element');}</script> </div></div><div id="menu"> <ul> <li> <script type="text/javascript" src="/e107_files/nav_menu.js"></script><div class="menuBar" style="width:100%; white-space: nowrap"><a class="menuButton" href="/news" style="padding-left: 28.4375px; padding-right: 28.4375px;">Новини</a><a class="menuButton" href="/e107_plugins/lgsl/" style="padding-left: 28.4375px; padding-right: 28.4375px;">Сървъри</a><a class="menuButton" href="/extras" style="padding-left: 28.4375px; padding-right: 28.4375px;">VIP Екстри</a><a class="menuButton" href="https://bill.sector.bg/" style="padding-left: 28.4375px; padding-right: 28.4375px;">VIP система</a><a class="menuButton" href="/forum" style="padding-left: 28.4375px; padding-right: 28.4375px;">Форум<div class="hiddenMenuClass" style="visibility:hidden;position:absolute;">сега</div></a><a class="menuButton" href="http://stats.sector.bg" style="padding-left: 28.4375px; padding-right: 28.4375px;">Статистика</a><a class="menuButton" href="/rules" style="padding-left: 28.4375px; padding-right: 28.4375px;">Правила</a><a class="menuButton" href="/about" style="padding-left: 28.4375px; padding-right: 28.4375px;">За нас</a></div> </li> </ul></div><div id="page"><table style="width: auto;" cellpadding="0" cellspacing="0"> <tbody><tr> <td style="width: auto; vertical-align: top;"> <div id="sidebar2"> <h2>
+Добре дошли TrustIssues
+</h2>
+<div class="text">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <a class="login_menu_link" href="/usersettings.php">Настройки</a><br> <img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <a class="login_menu_link" href="/user.php?id.37139">Профил</a><br> <img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <a class="login_menu_link" href="/index.php?logout">Излез</a>
+</div>
+<h2>
+Лични съобщения
+</h2>
+<div class="text">
+<a href="/e107_plugins/pm/pm.php?inbox"><img src="/e107_plugins/pm/images/mail_get.png" style="height:16px; width:16px; border:0px;" alt="Входящи" title="Входящи"></a> <a href="/e107_plugins/pm/pm.php?inbox">Входящи</a> <br> 15 общо, 0 непрочетени <br> <a href="/e107_plugins/pm/pm.php?outbox"><img src="/e107_plugins/pm/images/mail_send.png" style="height:16px; width:16px; border:0px;" alt="Изходящи" title="Изходящи"></a> <a href="/e107_plugins/pm/pm.php?outbox">Изходящи</a><br> 21 общо, 1 непрочетени <br><br>[ <a href="/e107_plugins/pm/pm.php?send">Изпрати съобщение</a> ]
+</div>
+<h2>
+Онлайн
+</h2>
+<div class="text">
+Гости: 21, Регистрирани: 2 ...<br><img src="/e107_images/admin_images/users_16.png" alt="" style="vertical-align:middle"> <a href="user.php?id.28296">MrDeepSense</a> е в <a href="https://cs.sector.bg/news.php">news.php</a><br><img src="/e107_images/admin_images/users_16.png" alt="" style="vertical-align:middle"> <a href="user.php?id.37139">TrustIssues</a> е в <a href="https://cs.sector.bg/user.php">user.php</a><br><br>Най-много Онлайн 1427<br>(Регистрирани: 1, Гости: 1426) на 08 окт : 23:27<br><br>Има : 36849<br>Нов регистриран: <a href="user.php?id.37411">Krs</a>
+</div>
+<h2>
+Чат
+</h2>
+<div class="text">
+<div id="chatbox_posts">
+<form id="chatbox" action="https://cs.sector.bg/user.php?id.37411" method="post" onsubmit="if (!window.__cfRLUnblockHandlers) return false; return(false);">
+<div><input type="hidden" id="chatbox_ajax" value="1"></div>
+<div style="text-align:center; width:100%">
+<textarea class="tbox chatbox" id="cmessage" name="cmessage" cols="20" rows="5" style=" overflow: auto" onselect="if (!window.__cfRLUnblockHandlers) return false; storeCaret(this);" onclick="if (!window.__cfRLUnblockHandlers) return false; storeCaret(this);" onkeyup="if (!window.__cfRLUnblockHandlers) return false; storeCaret(this);"></textarea>
+<br>
+<input class="button" type="submit" id="chat_submit" name="chat_submit" value="Публикувай" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:sendInfo('https://cs.sector.bg/e107_plugins/chatbox_menu/chatbox_menu.php', 'chatbox_posts', this.form);">
+<input class="button" type="reset" name="reset" value="Изчисти">
+<input class="button" type="button" style="cursor:pointer" size="30" value="Емоции" onclick="if (!window.__cfRLUnblockHandlers) return false; expandit('emote')">
+<div style="display:none" id="emote"><div class="spacer">
+<a href="javascript:addtext(' !alien ',true)"><img src="e107_images/emotes/default/alien.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !amazed ',true)"><img src="e107_images/emotes/default/amazed.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !grr ',true)"><img src="e107_images/emotes/default/angry.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !lol ',true)"><img src="e107_images/emotes/default/biglaugh.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :D ',true)"><img src="e107_images/emotes/default/cheesey.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :? ',true)"><img src="e107_images/emotes/default/confused.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :(( ',true)"><img src="e107_images/emotes/default/cry.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' x) ',true)"><img src="e107_images/emotes/default/dead.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !dodge ',true)"><img src="e107_images/emotes/default/dodge.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :( ',true)"><img src="e107_images/emotes/default/frown.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :@ ',true)"><img src="e107_images/emotes/default/gah.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :D ',true)"><img src="e107_images/emotes/default/grin.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !heart ',true)"><img src="e107_images/emotes/default/heart.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :! ',true)"><img src="e107_images/emotes/default/idea.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !ill ',true)"><img src="e107_images/emotes/default/ill.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' ~:( ',true)"><img src="e107_images/emotes/default/mad.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !mistrust ',true)"><img src="e107_images/emotes/default/mistrust.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :| ',true)"><img src="e107_images/emotes/default/neutral.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' ?! ',true)"><img src="e107_images/emotes/default/question.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' B) ',true)"><img src="e107_images/emotes/default/rolleyes.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !sad ',true)"><img src="e107_images/emotes/default/sad.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' 8) ',true)"><img src="e107_images/emotes/default/shades.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' !shy ',true)"><img src="e107_images/emotes/default/shy.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :) ',true)"><img src="e107_images/emotes/default/smile.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' %-6 ',true)"><img src="e107_images/emotes/default/special.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :O ',true)"><img src="e107_images/emotes/default/suprised.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' :p ',true)"><img src="e107_images/emotes/default/tongue.png" style="border:0; padding-top:2px;" alt=""></a>
+<a href="javascript:addtext(' ;) ',true)"><img src="e107_images/emotes/default/wink.png" style="border:0; padding-top:2px;" alt=""></a> </div>
+</div>
+</div>
+</form>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.37388">pak sum durpal purple</a></b><br><span class="smalltext">16 сеп : 20:45</span><br><div class="smallblacktext">добре бе смених я, и пак не ме пуска в сървърите.....</div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.35960">nd4z</a></b><br><span class="smalltext">16 сеп : 20:21</span><br><div class="smallblacktext">Забравих си паролата и нямам в пощата потвърждение за нова парола.. ? към кой да се обърна<br></div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.36441">opadzverrr</a></b><br><span class="smalltext">16 сеп : 14:24</span><br><div class="smallblacktext">С приложението counter-strike в конзолата се пише viewdemo и пишеш името на демото например SECTOR_BG_Classic_Dust2.Но на теб не ти трябва да го гледаш а да качиш самия файл в някой сайт и да споделиш в тази тема <a href="https://cs.sector.bg/e107_plugins/forum/forum_viewtopic.php?100842.890" rel="external" target="_blank">[натисни тук]</a></div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.28962">rrrrrr</a></b><br><span class="smalltext">16 сеп : 14:06</span><br><div class="smallblacktext">изпитвам малко затруднение със какво приложение да отворя файлът</div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.32138">pochti perfekten*</a></b><br><span class="smalltext">16 сеп : 12:39</span><br><div class="smallblacktext">Демото ти се намира в папката cstrike, и е с името на мапа, който си играл в момента на бана. Качи го в темата която ти дадох, по образец.</div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.28962">rrrrrr</a></b><br><span class="smalltext">16 сеп : 10:49</span><br><div class="smallblacktext">изобщо някой админ можели да ми махне банна във едиственият сървър във който играя<br></div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.28962">rrrrrr</a></b><br><span class="smalltext">16 сеп : 10:48</span><br><div class="smallblacktext">здаравейте, как мога да покажа демо, за да докажа че нямам сестра(хак)</div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.32841">alone in the dark</a></b><br><span class="smalltext">16 сеп : 10:46</span><br><div class="smallblacktext">@SweetB може би защото съм те блокирал <img src="https://cs.sector.bg/e107_images/emotes/default/wink.png" alt="" style="vertical-align:middle; border:0"></div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.34208">Texhnolyze__</a></b><br><span class="smalltext">16 сеп : 00:01</span><br><div class="smallblacktext">Kicked :"Bannat si na 15.09.2023 ot SECTOR.BG Jump, ostavashto vreme: 2 chas(a). Prichina: strafe helper." ?? xD даже не знам кво е тва</div></div><br>
+
+<div class="spacer">
+<img src="/e107_themes/sector/images/img07.gif" alt="" style="vertical-align: middle;"> <b><a href="/user.php?id.33260">SweetB</a></b><br><span class="smalltext">15 сеп : 20:30</span><br><div class="smallblacktext">ей алон ин да дарк що не мога да ти пиша на лично саубщение?</div></div><br>
+<br><div style="text-align:center"><a href="/e107_plugins/chatbox_menu/chat.php">Виж всички съобщения</a> (47079)</div></div>
+</div>
+<h2>
+Последно видян:
+</h2>
+<div class="text">
+<ul style="margin-left:15px; margin-top:0px; padding-left:0px;"><li style="list-style-type: square;"><a href="user.php?id.37139">TrustIssues</a><br> [ 0 мин, 1 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.28296">MrDeepSense</a><br> [ 3 мин, 5 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.32138">pochti perfekten*</a><br> [ 6 мин, 22 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.35671">RUSIA_</a><br> [ 7 мин, 53 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.20673">Dark Execution3R</a><br> [ 9 мин, 28 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.30791">~[PB]~*Just Do !t*~</a><br> [ 14 мин, 39 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.34881">GenocidE</a><br> [ 19 мин, 8 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.37270">-polqrnata mechka-</a><br> [ 22 мин, 45 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.16018">Mick Thomson</a><br> [ 25 мин, 35 сек по-рано ]</li><li style="list-style-type: square;"><a href="user.php?id.7809">SpeeDSeX</a><br> [ 25 мин, 47 сек по-рано ]</li></ul>
+</div>
+<h2>
+Избери тема
+</h2>
+<div class="text">
+<form method="post" action="https://cs.sector.bg/user.php">
+<div style="text-align:center">
+<select name="sitetheme" class="tbox" style="width: 95%;"><option value="nightvision">nightvision (потребители: 73)</option>
+<option value="sector" selected="selected">[ sector ] (потребители: 35676)</option>
+<option value="sector_big">sector_big (потребители: 141)</option>
+</select>
+<br><br>
+<input class="button" type="submit" name="settheme" value="Задай тема">
+</div></form>
+</div>
+<h2>
+Свържи се с нас
+</h2>
+<div class="text">
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCS.Sector.bg%2F&amp;tabs&amp;width=200&amp;height=130&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="200" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HMDYWPZ49P" type="text/javascript"></script>
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HMDYWPZ49P');
+</script>
+</div>
+<div id="google_translate_element"></div><script type="text/javascript">function googleTranslateElementInit() {  new google.translate.TranslateElement({pageLanguage: 'bg', autoDisplay: false}, 'google_translate_element');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> </div> </td> <td style="width: auto; vertical-align: top;">  <div id="contentfull"> <div class="post">
+<table style="width: 100%;" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td style="vertical-align: top">
+<h2>
+Потребителски профил
+</h2>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top">
+<div style="text-align:center"><table style="width:95%" class="fborder"><tbody><tr> <td colspan="2" class="fcaption" style="text-align:center">Потребител 37411 : {OIM_USER_NAME}</td></tr><tr> <td rowspan="5" class="forumheader3" style="width:20%; vertical-align:middle; text-align:center">няма снимка</td> <td class="forumheader3" style="width:100%"> <span style="float:left"><img src="/e107_images/user_icons/user_realname_dark.png" alt="" style="border:0px;vertical-align:middle;"> Истинско име</span> <span style="float:right; text-align:right"><i>няма информация</i></span> </td></tr><tr> <td style="width:100%" class="forumheader3"> <span style="float:left">Рейтинг:</span> <span style="float:right; text-align:right"><div class="spacer"><img src="e107_images/rate/dark/lev1.png" alt=""></div></span> </td></tr><tr> <td style="width:100%" class="forumheader3"> <span style="float:left">Последно посещение:&nbsp;&nbsp;</span> <span style="float:right; text-align:right">събота 16 септември 2023 - 20:56:57<br>( 14 часа, 3 минути, 16 секунди по-рано )</span> </td></tr><tr><td colspan="2" style="width:100%" class="forumheader3"><span style="float:left">{SENDPM=37411}</span><span style="float:right;">Изпрати лично съобщение</span></td></tr><tr><td colspan="2" style="width:100%" class="forumheader3"><span style="float:left">Рейтинг</span><span style="float:right;"><span> &nbsp; &nbsp;
+<select name="rateindex" onchange="if (!window.__cfRLUnblockHandlers) return false; urljump(this.options[selectedIndex].value)" class="tbox">
+<option selected="selected" value="0">Гласувай</option>
+<option value="rate.php?user^37411^/user.php?id.37411^1">1</option>
+<option value="rate.php?user^37411^/user.php?id.37411^2">2</option>
+<option value="rate.php?user^37411^/user.php?id.37411^3">3</option>
+<option value="rate.php?user^37411^/user.php?id.37411^4">4</option>
+<option value="rate.php?user^37411^/user.php?id.37411^5">5</option>
+<option value="rate.php?user^37411^/user.php?id.37411^6">6</option>
+<option value="rate.php?user^37411^/user.php?id.37411^7">7</option>
+<option value="rate.php?user^37411^/user.php?id.37411^8">8</option>
+<option value="rate.php?user^37411^/user.php?id.37411^9">9</option>
+<option value="rate.php?user^37411^/user.php?id.37411^10">10</option>
+</select></span></span></td></tr><tr> <td colspan="2" class="forumheader">Статистики на сайта</td></tr><tr> <td style="width:30%" class="forumheader3">Регистриран на</td> <td style="width:70%" class="forumheader3">сб сеп 16 2023, 08:12<br>14 часа, 48 минути, 12 секунди по-рано</td></tr><tr> <td style="width:30%" class="forumheader3">Съобщения в чата</td> <td style="width:70%" class="forumheader3">0 ( 0% )</td></tr><tr> <td style="width:30%" class="forumheader3">Публикувани коментари</td> <td style="width:70%" class="forumheader3">0 ( 0% )</td></tr><tr> <td style="width:30%" class="forumheader3">Съобщения във форума</td> <td style="width:70%" class="forumheader3">0 ( 0% )</td></tr><tr> <td style="width:30%" class="forumheader3">Посещения след регистрацията</td> <td style="width:70%" class="forumheader3">2</td></tr><tr> <td colspan="2" class="forumheader3" style="text-align:center"> <table style="width:95%"> <tbody><tr> <td style="width:50%">&lt;&lt; назад [ <a href="https://cs.sector.bg/user.php?id.37410">sHANG ch1.</a> ]</td> <td style="width:50%; text-align:right">&nbsp;</td> </tr> </tbody></table> </td></tr></tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+</div> </div>  </td> <td style="width: auto; vertical-align: top;">  </td> </tr></tbody></table></div><div id="footer"></div></div><script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-7610942-2']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script><script type="text/javascript" src="/e107_files/e_ajax.js"></script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon="{&quot;rayId&quot;:&quot;807fc9a44ec126f8&quot;,&quot;version&quot;:&quot;2023.8.0&quot;,&quot;r&quot;:1,&quot;token&quot;:&quot;8d66c8bc55024fa9be458b78c1ce328a&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class=" VIpgJd-yAWNEb-hvhgNd-l4eHX-i3jM8c"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""></div><div class=" VIpgJd-yAWNEb-hvhgNd-k77Iif-i3jM8c"><div class="VIpgJd-yAWNEb-hvhgNd-IuizWc" dir="ltr">Оригинален текст</div><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">Оценете този превод</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">Отзивите ви ще се използват за подобряване на Google Преводач</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Добър превод" aria-label="Добър превод" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="Лош превод" aria-label="Лош превод" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
